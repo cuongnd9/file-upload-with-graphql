@@ -2104,6 +2104,11 @@ diagnostics@^1.1.1:
     enabled "1.0.x"
     kuler "1.0.x"
 
+diana-js@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/diana-js/-/diana-js-0.6.0.tgz#414df1dcf9ceb3414a35603c571152bda7f515d2"
+  integrity sha512-ybZzHUBt8KVIXOAkyDTi59uEg2G09jZkxXQxPJZAAvQfW/jAVxow0cyFh3ddxXk4+lzMzf1C8Z8cnrYSOu3pEQ==
+
 dicer@0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/dicer/-/dicer-0.3.0.tgz#eacd98b3bfbf92e8ab5c2fdb71aaac44bb06b872"
