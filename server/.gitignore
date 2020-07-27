@@ -108,4 +108,7 @@ build/
 tmp/
 temp/
 
+# Uploads folder
+uploads/
+
 # End of https://www.gitignore.io/api/node
